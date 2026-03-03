@@ -1,0 +1,177 @@
+{
+  "basics": {
+    "name": "Saurav Sagar",
+    "initials": "SS",
+    "title": "Operations Management",
+    "summary": "Operations and Supply Chain professional with experience in logistics execution, vendor coordination, and data-driven process improvement. Skilled in Power BI, SQL, and advanced Excel to analyse operational performance, optimise capacity utilisation, and support decision-making. Currently pursuing PGDM in Operations Management /& Data Analytics.",
+    "location": "Greater Noida, India",
+    "email": "sauravsagar965@gmail.com",
+    "phone": "+91-7324070474",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://linkedin.com/in/sauravsagr020"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "id": "om-logistics",
+      "company": "OM Logistics Supply Chain Pvt. Ltd.",
+      "role": "Operations Intern — Supply Chain & Logistics",
+      "dates": "May 2025 – Aug 2025",
+      "location": "Gurugram, India",
+      "bullets": [
+        "Tracked daily operations and shipment movements of 50+ vehicles, ensuring 92% alignment between planned schedules and actual field execution through real-time monitoring and variance analysis.",
+        "Conducted variance analysis on manpower utilisation, trip hours, and load planning, driving an 18% improvement in operational efficiency through data-backed workforce and capacity optimisation.",
+        "Coordinated with 20+ transport partners and warehouse teams to resolve bottlenecks, improving service-level adherence from 83% to 95% within two months.",
+        "Led root cause analysis of delivery delays, shortages, and execution mismatches, reducing average delivery delays by 2 days through targeted process improvement initiatives."
+      ],
+      "metrics": [
+        "50+ vehicles tracked",
+        "92% alignment achieved",
+        "18% efficiency improvement",
+        "SLA improved from 83% to 95%",
+        "Delays reduced by 2 days"
+      ]
+    },
+    {
+      "id": "wheelseye",
+      "company": "WheelsEye Technology India Pvt. Ltd.",
+      "role": "Retention Executive — Operations & Customer Support",
+      "dates": "January 2024 – June 2024",
+      "location": "Gurugram, India",
+      "bullets": [
+        "Managed 1,200+ service requests with a 95% first-contact resolution rate across 8 regions, supporting logistics and fleet clients with fast, accurate operational responses.",
+        "Coordinated with internal operations, tech, and field teams to resolve 500+ service disruptions, reducing average incident resolution time by 25%.",
+        "Streamlined support workflows via CRM automation and ticket routing optimisation, cutting average resolution time from 4 hours to 3 hours.",
+        "Identified recurring issue patterns and proposed preventive workflows, reducing repeat escalations and improving customer data accuracy."
+      ],
+      "metrics": [
+        "1,200+ service requests",
+        "95% resolution rate",
+        "500+ disruptions resolved",
+        "25% time reduction",
+        "Resolution time cut by 25%"
+      ]
+    },
+    {
+      "id": "hershey",
+      "company": "Hershey India Pvt. Ltd.",
+      "role": "Customer Relationship Management Specialist",
+      "dates": "August 2024",
+      "location": "Delhi, India",
+      "bullets": [
+        "Supported sales and distribution operations across 6+ retail locations by analysing store-level sales and stock data, reducing stockouts by 18% and improving product availability by 22%.",
+        "Coordinated with 2+ distributors and retailers, maintaining inventory records and ensuring timely replenishment and SKU visibility for 5+ field representatives."
+      ],
+      "metrics": [
+        "6+ retail locations",
+        "18% stockout reduction",
+        "22% availability improvement",
+        "2+ distributors coordinated"
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "item": "92% Alignment",
+      "context": "Between planned schedules and actual field execution at OM Logistics",
+      "type": "metric"
+    },
+    {
+      "item": "18% Efficiency",
+      "context": "Improvement in operational efficiency through data-backed optimisation",
+      "type": "metric"
+    },
+    {
+      "item": "95% Resolution",
+      "context": "First-contact resolution rate across 8 regions at WheelsEye",
+      "type": "metric"
+    },
+    {
+      "item": "25% Faster",
+      "context": "Reduction in average incident resolution time for service disruptions",
+      "type": "metric"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Operations & Supply Chain",
+      "items": [
+        "Warehouse Coordination",
+        "Transportation Tracking",
+        "Route Execution",
+        "Inventory & Distribution Support",
+        "KPI Tracking",
+        "MIS Reporting",
+        "Capacity & Utilisation Analysis",
+        "Vendor Coordination",
+        "SOP Compliance"
+      ]
+    },
+    {
+      "category": "Process Improvement",
+      "items": [
+        "Root Cause Analysis",
+        "Process Mapping",
+        "Workflow Optimisation",
+        "SLA Monitoring",
+        "Six Sigma White Belt",
+        "Performance Metrics Development"
+      ]
+    },
+    {
+      "category": "Data & Tools",
+      "items": [
+        "Excel (Pivot Tables, VLOOKUP, XLOOKUP, INDEX-MATCH)",
+        "SQL",
+        "Power BI",
+        "Tableau",
+        "Oracle Fusion",
+        "CRM Systems",
+        "Google Sheets",
+        "MIS"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Delhivery Logistics Performance Dashboard",
+      "stack": "Power BI",
+      "bullets": [
+        "Data analytics dashboard built in Power BI to evaluate end-to-end logistics operations, featuring KPI tracking, cut-off compliance analysis, and shipment trend visualisation.",
+        "Incorporated correlation analysis between planned vs. actual delivery metrics to surface execution gaps and support data-driven operational decisions."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "G L Bajaj Institute of Management & Research",
+      "degree": "PGDM — Operations Management & Data Analytics",
+      "dates": "June 2024 – July 2026",
+      "location": "Greater Noida, India"
+    },
+    {
+      "institution": "Indira Gandhi National Open University",
+      "degree": "Bachelor of Commerce — Accounting & Business Management",
+      "dates": "March 2019 – January 2022"
+    }
+  ],
+  "certifications": [
+    "Six Sigma White Belt",
+    "Power BI Essential Training",
+    "SAP ERP Essential Training",
+    "Master Data Management for Beginners",
+    "Excel for Beginners",
+    "Learning Data Analytics: 1 Foundations",
+    "Microsoft Office Specialist: Excel Associate (Excel 2019)",
+    "Introduction to Cybersecurity",
+    "PMI Certified Professional in Managing AI (PMI-CPMAI)™"
+  ],
+  "extra": [
+    "Greater Noida, India",
+    "Operations Management professional",
+    "Skilled in analysing operational performance and optimising capacity utilisation."
+  ]
+}
