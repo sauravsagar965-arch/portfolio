@@ -11,6 +11,10 @@
       {
         "label": "LinkedIn",
         "url": "https://www.linkedin.com/in/sauravsagr020"
+      },
+      {
+        "label": "Resume",
+        "url": "https://drive.google.com/uc?export=download&id=1zGK1ZZn3zmZZPMk0dejIa2QwKng77imi"
       }
     ]
   },
@@ -23,37 +27,10 @@
       "dates": "May 2025 – Aug 2025",
       "location": "Gurugram, India",
       "bullets": [
-        "Tracked daily operations and shipment movements of 50+ vehicles, ensuring 92% alignment between planned schedules and actual execution through real-time monitoring.",
+        "Tracked daily operations and shipment movements of 50+ vehicles, ensuring 92% alignment between planned schedules and actual execution.",
         "Conducted variance analysis on manpower utilisation, trip hours, and load planning, driving an 18% improvement in operational efficiency.",
         "Coordinated with 20+ transport partners and warehouse teams to resolve logistics bottlenecks, improving SLA adherence from 83% to 95%.",
         "Led root cause analysis of delivery delays and execution mismatches, reducing average delivery delays by 2 days."
-      ]
-    },
-
-    {
-      "id": "wheelseye",
-      "company": "WheelsEye Technology India Pvt. Ltd.",
-      "role": "Retention Executive — Operations & Customer Support",
-      "dates": "Jan 2024 – Jun 2024",
-      "location": "Gurugram, India",
-      "bullets": [
-        "Managed 1,200+ service requests with a 95% first-contact resolution rate across 8 operational regions.",
-        "Collaborated with operations and tech teams to resolve 500+ service disruptions, reducing incident resolution time by 25%.",
-        "Improved CRM workflow efficiency by optimising ticket routing and automation processes.",
-        "Identified recurring operational issues and proposed preventive workflow improvements."
-      ]
-    },
-
-    {
-      "id": "hershey",
-      "company": "Hershey India Pvt. Ltd.",
-      "role": "Customer Relationship Management Specialist",
-      "dates": "Aug 2024",
-      "location": "Delhi, India",
-      "bullets": [
-        "Supported sales and distribution operations across 6+ retail locations by analysing store-level sales and inventory data.",
-        "Reduced stockouts by 18% and improved product availability by 22% through inventory coordination.",
-        "Coordinated with distributors and retailers to maintain accurate inventory records and timely replenishment."
       ]
     }
   ],
@@ -74,17 +51,6 @@
       ]
     },
     {
-      "category": "Process Improvement",
-      "items": [
-        "Root Cause Analysis",
-        "Process Mapping",
-        "Workflow Optimisation",
-        "SLA Monitoring",
-        "Six Sigma White Belt",
-        "Performance Metrics Development"
-      ]
-    },
-    {
       "category": "Data & Tools",
       "items": [
         "Advanced Excel",
@@ -92,8 +58,7 @@
         "Power BI",
         "Tableau",
         "Oracle Fusion",
-        "CRM Systems",
-        "Google Sheets"
+        "CRM Systems"
       ]
     }
   ],
@@ -103,8 +68,8 @@
       "title": "Logistics Performance Dashboard – Delhivery Operations Analysis",
       "stack": "Power BI",
       "bullets": [
-        "Developed a Power BI dashboard analysing logistics performance metrics including shipment flow, cut-off compliance, and operational KPIs.",
-        "Performed correlation analysis between planned vs actual delivery metrics to identify execution gaps and improve operational decision-making."
+        "Developed a Power BI dashboard analysing logistics performance metrics including shipment flow and operational KPIs.",
+        "Performed correlation analysis between planned vs actual delivery metrics to identify execution gaps."
       ]
     }
   ],
@@ -127,10 +92,11 @@
     "Six Sigma White Belt",
     "Power BI Essential Training",
     "SAP ERP Essential Training",
-    "Master Data Management for Beginners",
-    "Learning Data Analytics: Foundations",
-    "Microsoft Office Specialist: Excel Associate",
-    "Introduction to Cybersecurity",
-    "PMI Certified Professional in Managing AI"
-  ]
+    "Learning Data Analytics Foundations",
+    "Microsoft Office Specialist: Excel Associate"
+  ],
+
+  "achievements": [],
+
+  "extra": []
 }
